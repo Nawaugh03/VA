@@ -1,0 +1,12 @@
+Things you need in order to run the VA.py
+python 3.7 or higher
+1.) tkinter *(tk)
+2.) time
+3,) random
+4.) math
+
+
+--instructions--
+pip install ______
+
+*if tkinter doesn't use tk instead
